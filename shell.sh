@@ -1,6 +1,6 @@
 apt-get update
 
-apt-get install zsh wget proot openssh -y
+apt-get install git zsh wget proot openssh -y
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
